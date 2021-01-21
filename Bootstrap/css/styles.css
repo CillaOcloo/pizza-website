@@ -1,0 +1,37 @@
+.navbar-default {
+    background-color: #9d3434;
+    border-color: none;
+    border-radius: 0px;
+    border: none;
+    margin-bottom: 0px;
+   }
+
+.navbar-default .navbar-nav > li > a {
+    color: #f5f5f5;
+  }
+  .navbar-default .navbar-brand {
+    color: #f5f5f5;
+    font-weight: bold;
+  }
+
+  .carousel-content {
+    height: 550px;
+}
+
+.about-pizza{
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+}
+
+
+.pizza-inn{
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+
+.Footer{
+	background-color: #9d3434;
+	padding-top: 2rem 0;
+	color: #fff;
+
+}
